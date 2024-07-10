@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlightApp</string>
+    <string name="channel_name">Rahmath\n</string>
+    <string name="channel_description">Rahmath_Channel</string>
+</resources>
